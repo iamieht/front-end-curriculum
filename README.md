@@ -1,12 +1,13 @@
-# Self-taught Front-End Web Development Curriculum
+# Self-taught Fullstack Web Development Curriculum
 
-This curriculum is a simple guide, based on a few [resources](#resources) found on the web, that I am using to learn Front-End Web Development on my own and to log my learning progress.
+This curriculum is a simple guide, based on a few [resources](#resources) found on the web, that I am using to learn Fullstack Web Development on my own and to log my learning progress.
 
 ## Foundation
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
 [The Complete web development bootcamp (Angela Yu)](https://www.udemy.com/course/the-complete-web-development-bootcamp) | Pending | --- | --- | ---
+[Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design) | Pending | --- | --- | ---
 
 ## JavaScript
 
