@@ -28,7 +28,7 @@ This curriculum is a simple guide, based on a few [resources](#resources) found 
 -------- | ------ | ---------- | ----------- | ----------
 [Complete Python Bootcamp: Go from zero to hero in Python](https://www.udemy.com/course/complete-python-bootcamp) | Pending | --- | --- | ---
 [Complete Python Masterclass](https://www.udemy.com/course/python-the-complete-python-developer-course) | Pending | --- | --- | ---
-[The Python Bible™ | Everything You Need to Program in Python](https://www.udemy.com/course/the-python-bible) | Pending | --- | --- | ---
+[The Python Bible™ Everything You Need to Program in Python](https://www.udemy.com/course/the-python-bible) | Pending | --- | --- | ---
 
 ## Front-end Frameworks
 
