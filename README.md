@@ -22,6 +22,14 @@ This curriculum is a simple guide, based on a few [resources](#resources) found 
 -------- | ------ | ---------- | ----------- | ----------
 [Understanding TypeScript - 2020 Edition](https://www.udemy.com/course/understanding-typescript) | Pending | --- | --- | ---
 
+## Python
+
+| Course | Status | Start Date | Finish Date | Repository
+-------- | ------ | ---------- | ----------- | ----------
+[Complete Python Bootcamp: Go from zero to hero in Python](https://www.udemy.com/course/complete-python-bootcamp) | Pending | --- | --- | ---
+[Complete Python Masterclass](https://www.udemy.com/course/python-the-complete-python-developer-course) | Pending | --- | --- | ---
+[The Python Bible™ | Everything You Need to Program in Python](https://www.udemy.com/course/the-python-bible) | Pending | --- | --- | ---
+
 ## Front-end Frameworks
 
 ## Resources
