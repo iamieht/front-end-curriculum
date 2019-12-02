@@ -7,7 +7,7 @@ This curriculum is a simple guide, based on a few [resources](#resources) found 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
 [The Complete web development bootcamp (Angela Yu)](https://www.udemy.com/course/the-complete-web-development-bootcamp) | Pending | --- | --- | ---
-[Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design) | Pending | --- | --- | ---
+[Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design) | In Progress | Dec. 2nd 2019 | --- | [Web Design for Everybody](https://github.com/iamieht/Web-Design-for-Everybody)
 
 ## JavaScript
 
