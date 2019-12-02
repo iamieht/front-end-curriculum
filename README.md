@@ -35,3 +35,4 @@ This curriculum is a simple guide, based on a few [resources](#resources) found 
 ## Resources
 
 * [CodingTheSmartWay.com Blog](https://medium.com/codingthesmartway-com-blog/the-2019-roadmap-to-fullstack-web-development-1bba67a54ae8)
+* [Cousera.org](https://www.coursera.org)
